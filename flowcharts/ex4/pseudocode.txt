@@ -1,0 +1,4 @@
+1. Input 3 different numbers (cath1, cath2, hip)
+2. Add the 2 cath numbers and compare the result with the hip number
+3. If the add is bigger than the hip number the tringle is possible if not the triangle is not possible
+4. Output possible or not
