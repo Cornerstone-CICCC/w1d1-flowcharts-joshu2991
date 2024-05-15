@@ -1,0 +1,5 @@
+1. Input 3 different numbers (not equal to each other) a,b,c
+2. Compare the a and b numbers
+3. Compare the larger one with the c number
+4. If the c number is larger it will be the output
+5. If the a or b number is larger than the c number then this number is the output
