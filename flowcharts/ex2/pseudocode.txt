@@ -1,0 +1,4 @@
+1. Input the width (W) and the length (L) of a rectangle
+2. Calculate the area (A) by multiplying W by L
+3. Print A
+
